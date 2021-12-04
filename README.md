@@ -28,7 +28,3 @@ A Smartphone
 A Single Die
 
 ![Die SVG](Die.svg)
-
-A Soccer Ball
-
-![Soccer Ball SVG](SoccerBall.svg)
