@@ -14,3 +14,6 @@ I will be using Adobe Illustrator and a mouse-drawn technique throughout this tu
 Click on the below image to be taken to YouTube to watch the tutorial!
 
 [![Youtube Video Image](http://img.youtube.com/vi/7KrbAWQtYWA/0.jpg)](http://www.youtube.com/watch?v=7KrbAWQtYWA "How to Create a Vector Image using Adobe Illustrator - Cameron Patton (cptgk)")
+
+## Vector Image Examples Created by Cameron Patton
+
