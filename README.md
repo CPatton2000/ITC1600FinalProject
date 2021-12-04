@@ -20,3 +20,15 @@ Click on the below image to be taken to YouTube to watch the tutorial!
 A CD-ROM
 
 ![CD-ROM SVG](CD-ROM.svg)
+
+A Smartphone
+
+![Smartphone SVG](Smartphone.svg)
+
+A Single Die
+
+![Die SVG](Die.svg)
+
+A Soccer Ball
+
+![Soccer Ball SVG](SoccerBall.svg)
