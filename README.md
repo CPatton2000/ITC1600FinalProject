@@ -11,7 +11,7 @@ I will be using Adobe Illustrator and a mouse-drawn technique throughout this tu
 
 ## The Video Tutorial
 
-In the video below I will be showing you how to create a simple floppy disk using Adobe Illustrator. Simply click on the thumbnail below to be taken to the YouTube video!
+In the video link below I will be showing you how to create a simple floppy disk using Adobe Illustrator. Simply click on the thumbnail below to be taken to the YouTube video!
 
 [![Youtube Video Image](http://img.youtube.com/vi/7KrbAWQtYWA/0.jpg)](http://www.youtube.com/watch?v=7KrbAWQtYWA "How to Create a Vector Image using Adobe Illustrator - Cameron Patton (cptgk)")
 
