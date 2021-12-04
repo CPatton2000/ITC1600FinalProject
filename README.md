@@ -17,3 +17,6 @@ Click on the below image to be taken to YouTube to watch the tutorial!
 
 ## Vector Image Examples Created by Cameron Patton
 
+A CD-ROM
+
+![CD-ROM SVG](CD-ROM.svg)
