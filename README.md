@@ -7,3 +7,8 @@ The purpose of this tutorial is to help familiarize general audiences on how to 
 
 ### Disclaimer
 I will be using Adobe Illustrator and a mouse-drawn technique throughout this tutorial, so the process and/or layout may look different if you are using an alternative software.
+
+
+## The Video Tutorial
+
+[![Youtube Video Image](http://img.youtube.com/vi/7KrbAWQtYWA/0.jpg)](http://www.youtube.com/watch?v=7KrbAWQtYWA "How to Create a Vector Image using Adobe Illustrator - Cameron Patton (cptgk)")
